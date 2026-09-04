@@ -1,7 +1,11 @@
 export class Persona {
 
-  public saludar() {
+  public saludarHola() {
     console.log("hola");
+  }
+
+  public saludarChau() {
+    console.log("chau");
   }
 
 }
